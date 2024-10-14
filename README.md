@@ -37,7 +37,7 @@ O WebCarros é um aplicativo desenvolvido em React Native que permite aos usuár
 
 ![Tela de Avaliação](./assets/tela-avaliacao.png)
 
-## Como Usar
+## 👷‍♂️ Como Usar
 
 - Clonar repositorio
 - npm install
