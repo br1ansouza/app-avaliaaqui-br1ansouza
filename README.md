@@ -28,6 +28,7 @@ O WebCarros é um aplicativo desenvolvido em React Native que permite aos usuár
 - **Axios**: Biblioteca que facilita a realização de requisições HTTP, utilizada para enviar os dados de feedback.
 - **React Navigation**: Utilizado para organizar as rotas e transmitir parâmetros entre as diferentes telas do aplicativo.
 - **Node.js (Back-end)**: Gerenciar a rota `/evaluations`, que recebe os feedbacks através da API.
+- **JSON Server**: Servidor fake para simular uma API REST com o database.json.
 
 
 ---
