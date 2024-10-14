@@ -1,0 +1,113 @@
+{
+  "evaluations": [
+    {
+      "id": "31bf",
+      "name": "Brian de Souza",
+      "email": "brian@gmail.com",
+      "feedback": "Ótima dirigibilidade e conforto.",
+      "experience": "Excelente",
+      "recommend": true,
+      "rating": 5
+    },
+    {
+      "id": "42cd",
+      "name": "Ana Pereira",
+      "email": "ana.p@gmail.com",
+      "feedback": "Bom desempenho na estrada, mas consumo elevado.",
+      "experience": "Boa",
+      "recommend": true,
+      "rating": 4
+    },
+    {
+      "id": "53de",
+      "name": "Carlos Santana",
+      "email": "carlos.s@gmail.com",
+      "feedback": "Confortável, mas com muitos problemas mecânicos.",
+      "experience": "Razoável",
+      "recommend": false,
+      "rating": 3
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Toyota Corolla 2021",
+      "price": "R$ 120.000,00",
+      "brand": "Toyota",
+      "description": "Sedan médio com excelente conforto e tecnologia.",
+      "image": "https://example.com/images/toyota-corolla-2021.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Honda Civic 2020",
+      "price": "R$ 115.000,00",
+      "brand": "Honda",
+      "description": "Sedan espaçoso com ótimo desempenho e design moderno.",
+      "image": "https://example.com/images/honda-civic-2020.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Chevrolet Onix 2022",
+      "price": "R$ 80.000,00",
+      "brand": "Chevrolet",
+      "description": "Compacto econômico com boa relação custo-benefício.",
+      "image": "https://example.com/images/chevrolet-onix-2022.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Ford Ranger 2021",
+      "price": "R$ 180.000,00",
+      "brand": "Ford",
+      "description": "Picape robusta com excelente capacidade off-road.",
+      "image": "https://example.com/images/ford-ranger-2021.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Volkswagen T-Cross 2021",
+      "price": "R$ 110.000,00",
+      "brand": "Volkswagen",
+      "description": "SUV compacto com tecnologia avançada e segurança de ponta.",
+      "image": "https://example.com/images/vw-tcross-2021.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Renault Duster 2021",
+      "price": "R$ 95.000,00",
+      "brand": "Renault",
+      "description": "SUV versátil e acessível, com bom espaço interno.",
+      "image": "https://example.com/images/renault-duster-2021.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Fiat Toro 2022",
+      "price": "R$ 130.000,00",
+      "brand": "Fiat",
+      "description": "Picape média com design arrojado e versatilidade urbana.",
+      "image": "https://example.com/images/fiat-toro-2022.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Jeep Compass 2022",
+      "price": "R$ 160.000,00",
+      "brand": "Jeep",
+      "description": "SUV premium com excelente desempenho e sofisticação.",
+      "image": "https://example.com/images/jeep-compass-2022.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Nissan Kicks 2021",
+      "price": "R$ 105.000,00",
+      "brand": "Nissan",
+      "description": "SUV compacto com design moderno e eficiente.",
+      "image": "https://example.com/images/nissan-kicks-2021.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Hyundai HB20 2022",
+      "price": "R$ 75.000,00",
+      "brand": "Hyundai",
+      "description": "Compacto econômico, ideal para o uso urbano.",
+      "image": "https://example.com/images/hyundai-hb20-2022.jpg"
+    }
+  ]
+}
