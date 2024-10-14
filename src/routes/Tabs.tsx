@@ -1,7 +1,7 @@
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { Ionicons } from '@expo/vector-icons'; 
-import ListProduct from '../pages/ListPtoduct'; 
+import ListProduct from '../pages/ListProduct'; 
 import Avaliation from '../pages/Avaliation';
 import { propsNavigationTab } from './models/types';
 
@@ -25,7 +25,7 @@ export default function Tabs() {
       })}
     >
       <Tab.Screen
-        name="Produtos"
+        name="Veiculos"
         component={ListProduct}
         options={{
           tabBarIcon: ({ color, size }) => (

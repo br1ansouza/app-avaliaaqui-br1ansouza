@@ -26,7 +26,7 @@ export default function Home() {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#c84648', 
+    backgroundColor: '#c84648',
     flex: 1,
   },
   header: {
@@ -38,8 +38,8 @@ const styles = StyleSheet.create({
     borderBottomColor: '#fff3db',
   },
   textHeader: {
-    color: '#e7e4d5',
-    fontSize: 26, 
+    color: '#ffffff',
+    fontSize: 26,
     paddingVertical: 8,
     paddingHorizontal: 16,
     borderRadius: 8,
@@ -52,19 +52,19 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
   },
   textBody: {
-    color: '#d3c8b4',
-    fontSize: 28, 
+    color: '#ffffff',
+    fontSize: 28,
     fontWeight: 'bold',
     marginBottom: 10,
   },
   paragraph: {
-    color: '#e7e4d5',
+    color: '#ffffff',
     fontSize: 16,
     textAlign: 'center',
     marginVertical: 20,
   },
   buttonLogin: {
-    backgroundColor: '#fff3db', 
+    backgroundColor: '#ffffff',
     paddingVertical: 10,
     paddingHorizontal: 30,
     borderRadius: 10,
@@ -74,5 +74,11 @@ const styles = StyleSheet.create({
     color: '#c84648',
     fontSize: 18,
     fontWeight: 'bold',
+  },
+  textError: {
+    color: '#e74c3c',
+    fontSize: 18,
+    textAlign: 'center',
+    marginTop: 20,
   },
 });

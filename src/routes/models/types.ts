@@ -2,7 +2,7 @@ import { BottomTabNavigationProp } from '@react-navigation/bottom-tabs';
 import { StackNavigationProp } from '@react-navigation/stack';
 
 export type propsNavigationTab = {
-  Produtos: undefined;
+  Veiculos: undefined;
   Avaliacao: {
     id: string;
   };

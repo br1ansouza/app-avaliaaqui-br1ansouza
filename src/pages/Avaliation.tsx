@@ -19,7 +19,7 @@ interface RouteParams {
 
 export default function Avaliation() {
   const route = useRoute();
-  const params = route.params as RouteParams; // Recebendo o ID do carro
+  const params = route.params as RouteParams; // recebe o ID do carro
   const productId = params?.id;
 
   const [name, setName] = useState('');
@@ -28,8 +28,8 @@ export default function Avaliation() {
   const [experience, setExperience] = useState('');
   const [recommend, setRecommend] = useState(false);
   const [loading, setLoading] = useState(false);
-  const [rating, setRating] = useState(0); // Para armazenar a avaliação por estrelas
-  const [selectedImage, setSelectedImage] = useState<string | null>(null); // Para a imagem enviada
+  const [rating, setRating] = useState(0); // armazena a avaliação por estrelas
+  const [selectedImage, setSelectedImage] = useState<string | null>(null); //  imagem enviada
 
   const validateAndSubmit = async () => {
     if (!name || !email || !feedback || !experience || rating === 0) {
@@ -75,7 +75,7 @@ export default function Avaliation() {
           <Ionicons
             name={i <= rating ? 'star' : 'star-outline'}
             size={28}
-            color={i <= rating ? '#c84648' : '#703e3b'} // Estrela cheia ou vazia
+            color={i <= rating ? '#c84648' : '#703e3b'} // estrela cheia ou vazia
           />
         </TouchableOpacity>,
       );
