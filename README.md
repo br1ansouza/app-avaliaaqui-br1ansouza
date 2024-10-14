@@ -27,7 +27,9 @@ O WebCarros é um aplicativo desenvolvido em React Native que permite aos usuár
 - **React Navigation**: Para gerenciamento de navegação.
 - **Context API**: Para gerenciamento de estado de autenticação.
 
-📸 Imagens do Projeto
+---
+
+## 📸 Imagens do Projeto
 
 ![Tela de Login](./assets/tela-login.png)
 
