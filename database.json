@@ -35,15 +35,15 @@
       "price": "R$ 120.000,00",
       "brand": "Toyota",
       "description": "Sedan médio com excelente conforto e tecnologia.",
-      "image": "https://example.com/images/toyota-corolla-2021.jpg"
+      "image": "https://media.toyota.com.ar/07a16d9c-9d28-454a-9be3-b6dbcfe8d322.png"
     },
     {
       "id": "2",
-      "name": "Honda Civic 2020",
+      "name": "Honda Civic 2022",
       "price": "R$ 115.000,00",
       "brand": "Honda",
       "description": "Sedan espaçoso com ótimo desempenho e design moderno.",
-      "image": "https://example.com/images/honda-civic-2020.jpg"
+      "image": "https://imgs.search.brave.com/UTkB-zGjv7Y8uiTncKGr9PYL41UL1HcqyMDa5n9vZ8M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/Ymllc2Nsb3VkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8xMC8xLTItMzAw/eDE0NC5wbmc"
     },
     {
       "id": "3",
@@ -51,7 +51,7 @@
       "price": "R$ 80.000,00",
       "brand": "Chevrolet",
       "description": "Compacto econômico com boa relação custo-benefício.",
-      "image": "https://example.com/images/chevrolet-onix-2022.jpg"
+      "image": "https://imgs.search.brave.com/r5-ux2B2VVC80EocX1t-QHqQwRHkXeKc2YQx7Yscgmw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2hldnJvbGV0LmNv/bS5hci9jb250ZW50/L2RhbS9jaGV2cm9s/ZXQvc2EvYXJnZW50/aW5hL2VzcGFub2wv/aW5kZXgvY2Fycy8y/MDIwLW9uaXgtcGx1/cy1wcmVtaWVyLzAx/LWltYWdlcy9jb2xv/cml6ZXIvanVsaW8t/MjMvMy1zdW1taXQt/d2hpdGUucG5nP2lt/d2lkdGg9OTYw"
     },
     {
       "id": "4",
@@ -59,7 +59,7 @@
       "price": "R$ 180.000,00",
       "brand": "Ford",
       "description": "Picape robusta com excelente capacidade off-road.",
-      "image": "https://example.com/images/ford-ranger-2021.jpg"
+      "image": "https://imgs.search.brave.com/kKCdhehfkVo-7qNG7EAjp0pbeZu8KPaXupjBFfNVXWA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF0/Zm9ybS5jc3RhdGlj/LWltYWdlcy5jb20v/aW4vdjIvc3RvY2tf/cGhvdG9zLzBkOTIy/MWQzLTg1NWMtNDRm/MS1hNmNlLTY5ZmNk/YjEwN2JlOC83MDNj/NWIxMS05NmExLTQ4/ZDMtYjNmNS0wMzQz/NjVjMzdiZDUucG5n"
     },
     {
       "id": "5",
@@ -67,7 +67,7 @@
       "price": "R$ 110.000,00",
       "brand": "Volkswagen",
       "description": "SUV compacto com tecnologia avançada e segurança de ponta.",
-      "image": "https://example.com/images/vw-tcross-2021.jpg"
+      "image": "https://imgs.search.brave.com/DEbF4uuE03iYLl-E_kOnzGXHwEhQ7FwnVsg3Kg7nWmE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jLWlt/YWdlcy5jYXJleHBl/cnQuY29tLmF1L3Vw/bG9hZC9xX2F1dG86/YmVzdC9mX2F1dG8v/Y19wYWQsaF8zNzAs/d181NjAvdjEvc2hv/d3Jvb20vcHJpbWFy/eWN1dG91dC9jbHF2/azNua2cwMDBmODgy/cmYxdThlMTdlLnBu/Zw"
     },
     {
       "id": "6",
@@ -75,7 +75,7 @@
       "price": "R$ 95.000,00",
       "brand": "Renault",
       "description": "SUV versátil e acessível, com bom espaço interno.",
-      "image": "https://example.com/images/renault-duster-2021.jpg"
+      "image": "https://imgs.search.brave.com/tKtZCwDdFFjwT2RswlDouOIHClOnSEcY_XM4GH0PZ6A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubGF0YW1hdXRv/cy5jb20vdGh1bWJz/L3cvMzAweDE3N3hD/L3B0eF9taWdyYXRp/b25fbWV4aWNvLzIy/MjIwMjQvNDU0OTE0/NS9vX28vNDU0OTE0/NV8xNzA5NTI5Nzk0/NDQ3XzU0Mi5wbmc"
     },
     {
       "id": "7",
@@ -83,7 +83,7 @@
       "price": "R$ 130.000,00",
       "brand": "Fiat",
       "description": "Picape média com design arrojado e versatilidade urbana.",
-      "image": "https://example.com/images/fiat-toro-2022.jpg"
+      "image": "https://imgs.search.brave.com/CUhgRD1hnUfDwezH66hkSRpeB6RVN78yyIAIvx9ollM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTg1YjJlZGJj/ZTI0YzQ3YjJjNWYu/cG5n"
     },
     {
       "id": "8",
@@ -91,23 +91,23 @@
       "price": "R$ 160.000,00",
       "brand": "Jeep",
       "description": "SUV premium com excelente desempenho e sofisticação.",
-      "image": "https://example.com/images/jeep-compass-2022.jpg"
+      "image": "https://imgs.search.brave.com/Dq0lzJi39-RvPZIo-BsYsbMFJ0UygNTgZrZ2cZbd2X8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nbWFydC5jb20v/ZmlsZXMvMjIvSmVl/cC1Db21wYXNzLVBO/Ry1IRC5wbmc"
     },
     {
       "id": "9",
-      "name": "Nissan Kicks 2021",
-      "price": "R$ 105.000,00",
+      "name": "Nissan Kicks 2025",
+      "price": "R$ 205.000,00",
       "brand": "Nissan",
       "description": "SUV compacto com design moderno e eficiente.",
-      "image": "https://example.com/images/nissan-kicks-2021.jpg"
+      "image": "https://imgs.search.brave.com/h2V9pTIAFiWuafHJ6qG1AggB30MrDLb_cC5UF3P2QRA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmlzc2FuLmNhL2Nv/bnRlbnQvZGFtL05p/c3Nhbi9DYW5hZGEv/VmVoaWNsZXMva2lj/a3MvMjAyNS9vdmVy/dmlldy9yZXNlcnZl/LzIwMjUtbmlzc2Fu/LWtpY2tzLXJlZC1n/cmV5LnBuZw"
     },
     {
       "id": "10",
-      "name": "Hyundai HB20 2022",
+      "name": "Hyundai HB20 2023",
       "price": "R$ 75.000,00",
       "brand": "Hyundai",
       "description": "Compacto econômico, ideal para o uso urbano.",
-      "image": "https://example.com/images/hyundai-hb20-2022.jpg"
+      "image": "https://imgs.search.brave.com/G2oSmaiOjnBmhwjx57JalNbLdYP90I3KpI49POZgi1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aHl1bmRhaS5jb20u/bXgvcmVzb3VyY2Vz/L2ltYWdlcy9tb2Rl/bHMvMjAyMy9oYjIw/c2QvaGIyMC1zZWRh/bi1nbHMtdGEvZXh0/ZXJpb3IvYmFzZS9h/enVsLzM2MC8wMDcu/cG5n"
     }
   ]
 }
